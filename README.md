@@ -21,3 +21,6 @@
 china/国行版、taiwan/台湾版、global/全球版、europe/欧洲版(欧版)、 india/印度版
 
 zip是卡刷包 tgz是线刷包
+
+## 鸣谢
+酷安@TobeSage
